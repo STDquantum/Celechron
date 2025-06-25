@@ -1,4 +1,4 @@
-package xyz.nosig.celechron
+package xyz.STDquantum.celechron
 
 import android.content.Context
 import android.content.Intent

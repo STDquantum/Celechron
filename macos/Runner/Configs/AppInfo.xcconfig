@@ -8,7 +8,7 @@
 PRODUCT_NAME = celechron
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = xyz.nosig.celechron
+PRODUCT_BUNDLE_IDENTIFIER = xyz.STDquantum.celechron
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2024 Celechron. All rights reserved.
