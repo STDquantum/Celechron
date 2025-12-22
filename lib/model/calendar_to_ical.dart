@@ -8,7 +8,6 @@ import 'package:celechron/model/period.dart';
 import 'package:celechron/model/scholar.dart';
 import 'package:celechron/model/semester.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/rendering.dart';
 import 'package:get/get.dart';
 
 /// iCal日历格式转换器
