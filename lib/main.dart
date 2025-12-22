@@ -10,12 +10,12 @@ import 'package:get/get.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:app_links/app_links.dart';
 
-import 'package:celechron/model/scholar.dart';
-import 'package:celechron/model/option.dart';
-import 'package:celechron/page/home_page.dart';
-import 'package:celechron/page/option/ecard_pay_page.dart';
-import 'package:celechron/worker/ecard_widget_messenger.dart';
-import 'package:celechron/database/database_helper.dart';
+import 'package:celechronalpha/model/scholar.dart';
+import 'package:celechronalpha/model/option.dart';
+import 'package:celechronalpha/page/home_page.dart';
+import 'package:celechronalpha/page/option/ecard_pay_page.dart';
+import 'package:celechronalpha/worker/ecard_widget_messenger.dart';
+import 'package:celechronalpha/database/database_helper.dart';
 
 void main() async {
   // 初始化数据库

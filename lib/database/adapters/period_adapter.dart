@@ -1,5 +1,5 @@
 import 'package:hive/hive.dart';
-import 'package:celechron/model/period.dart';
+import 'package:celechronalpha/model/period.dart';
 
 class PeriodTypeAdapter extends TypeAdapter<PeriodType> {
   @override

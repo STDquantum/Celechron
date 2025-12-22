@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:get/get.dart';
 
-import 'package:celechron/design/persistent_headers.dart';
-import 'package:celechron/model/option.dart';
+import 'package:celechronalpha/design/persistent_headers.dart';
+import 'package:celechronalpha/model/option.dart';
 import 'option_controller.dart';
 
 class CourseIdMappingEditForm extends StatelessWidget {

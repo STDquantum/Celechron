@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
-import 'package:celechron/design/custom_colors.dart';
-import 'package:celechron/design/round_rectangle_card.dart';
-import 'package:celechron/design/two_line_card.dart';
-import 'package:celechron/design/persistent_headers.dart';
-import 'package:celechron/page/scholar/grade_detail/weighted_gpa_controller.dart';
+import 'package:celechronalpha/design/custom_colors.dart';
+import 'package:celechronalpha/design/round_rectangle_card.dart';
+import 'package:celechronalpha/design/two_line_card.dart';
+import 'package:celechronalpha/design/persistent_headers.dart';
+import 'package:celechronalpha/page/scholar/grade_detail/weighted_gpa_controller.dart';
 
 /// 加权绩点页面
 ///

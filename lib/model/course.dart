@@ -1,4 +1,4 @@
-import 'package:celechron/model/exams_dto.dart';
+import 'package:celechronalpha/model/exams_dto.dart';
 
 import 'exam.dart';
 import 'grade.dart';

@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:celechron/model/scholar.dart';
-import 'package:celechron/model/course.dart';
+import 'package:celechronalpha/model/scholar.dart';
+import 'package:celechronalpha/model/course.dart';
 
 class SearchPageController extends GetxController {
   final _scholar = Get.find<Rx<Scholar>>(tag: 'scholar');

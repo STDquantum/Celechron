@@ -1,10 +1,10 @@
-import 'package:celechron/database/database_helper.dart';
+import 'package:celechronalpha/database/database_helper.dart';
 import 'package:get/get.dart';
-import 'package:celechron/model/grade.dart';
-import 'package:celechron/model/scholar.dart';
-import 'package:celechron/model/semester.dart';
-import 'package:celechron/utils/tuple.dart';
-import 'package:celechron/utils/gpa_helper.dart';
+import 'package:celechronalpha/model/grade.dart';
+import 'package:celechronalpha/model/scholar.dart';
+import 'package:celechronalpha/model/semester.dart';
+import 'package:celechronalpha/utils/tuple.dart';
+import 'package:celechronalpha/utils/gpa_helper.dart';
 
 /// 加权绩点控制器
 ///

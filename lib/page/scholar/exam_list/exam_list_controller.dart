@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:get/get.dart';
 
-import 'package:celechron/model/semester.dart';
-import 'package:celechron/model/scholar.dart';
-import 'package:celechron/model/exam.dart';
+import 'package:celechronalpha/model/semester.dart';
+import 'package:celechronalpha/model/scholar.dart';
+import 'package:celechronalpha/model/exam.dart';
 
 class ExamListController extends GetxController {
   final _scholar = Get.find<Rx<Scholar>>(tag: 'scholar');

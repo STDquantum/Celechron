@@ -1,25 +1,25 @@
 // Official packages
-import 'package:celechron/page/scholar/todo/todo_card.dart';
-import 'package:celechron/utils/platform_features.dart';
+import 'package:celechronalpha/page/scholar/todo/todo_card.dart';
+import 'package:celechronalpha/utils/platform_features.dart';
 import 'package:extended_sliver/extended_sliver.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 // Custom widgets and colors
-import 'package:celechron/design/multiple_columns.dart';
-import 'package:celechron/design/two_line_card.dart';
-import 'package:celechron/design/round_rectangle_card.dart';
-import 'package:celechron/design/custom_colors.dart';
-import 'package:celechron/design/animate_button.dart';
+import 'package:celechronalpha/design/multiple_columns.dart';
+import 'package:celechronalpha/design/two_line_card.dart';
+import 'package:celechronalpha/design/round_rectangle_card.dart';
+import 'package:celechronalpha/design/custom_colors.dart';
+import 'package:celechronalpha/design/animate_button.dart';
 
-import 'package:celechron/page/search/search_view.dart';
+import 'package:celechronalpha/page/search/search_view.dart';
 import 'course_list/course_list_view.dart';
 import 'course_schedule/course_schedule_view.dart';
 import 'exam_list/exam_list_view.dart';
 import 'grade_detail/grade_detail_view.dart';
 import 'scholar_controller.dart';
-import 'package:celechron/page/option/option_controller.dart';
+import 'package:celechronalpha/page/option/option_controller.dart';
 
 class ScholarErrorHandler extends StatelessWidget {
   final FlutterErrorDetails errorDetails;

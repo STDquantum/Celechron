@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:flutter/cupertino.dart';
-import 'package:celechron/design/persistent_headers.dart';
-import 'package:celechron/http/github_service.dart';
+import 'package:celechronalpha/design/persistent_headers.dart';
+import 'package:celechronalpha/http/github_service.dart';
 
 class CreditsPage extends StatefulWidget {
   final String version;

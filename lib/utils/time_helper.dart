@@ -1,4 +1,4 @@
-import 'package:celechron/utils/utils.dart';
+import 'package:celechronalpha/utils/utils.dart';
 
 class TimeHelper {
   static List<DateTime> parseExamDateTime(String datetimeStr) {

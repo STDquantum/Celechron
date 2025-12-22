@@ -5,15 +5,15 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:workmanager/workmanager.dart';
 
-import 'package:celechron/model/scholar.dart';
-import 'package:celechron/model/option.dart';
-import 'package:celechron/database/database_helper.dart';
-import 'package:celechron/worker/ecard_widget_messenger.dart';
-import 'package:celechron/worker/fuse.dart';
-import 'package:celechron/worker/background_app_refresh.dart';
-import 'package:celechron/utils/platform_features.dart';
-import 'package:celechron/model/calendar_to_system.dart';
-import 'package:celechron/model/calendar_to_ical.dart';
+import 'package:celechronalpha/model/scholar.dart';
+import 'package:celechronalpha/model/option.dart';
+import 'package:celechronalpha/database/database_helper.dart';
+import 'package:celechronalpha/worker/ecard_widget_messenger.dart';
+import 'package:celechronalpha/worker/fuse.dart';
+import 'package:celechronalpha/worker/background_app_refresh.dart';
+import 'package:celechronalpha/utils/platform_features.dart';
+import 'package:celechronalpha/model/calendar_to_system.dart';
+import 'package:celechronalpha/model/calendar_to_ical.dart';
 
 class OptionController extends GetxController {
   final _option = Get.find<Option>(tag: 'option');

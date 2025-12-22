@@ -1,9 +1,9 @@
-import 'package:celechron/database/database_helper.dart';
-import 'package:celechron/utils/tuple.dart';
+import 'package:celechronalpha/database/database_helper.dart';
+import 'package:celechronalpha/utils/tuple.dart';
 
-import 'package:celechron/model/grade.dart';
-import 'package:celechron/model/semester.dart';
-import 'package:celechron/model/todo.dart';
+import 'package:celechronalpha/model/grade.dart';
+import 'package:celechronalpha/model/semester.dart';
+import 'package:celechronalpha/model/todo.dart';
 
 abstract class Spider {
   set db(DatabaseHelper? db);

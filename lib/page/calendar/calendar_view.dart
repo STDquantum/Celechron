@@ -1,20 +1,20 @@
-import 'package:celechron/design/custom_decoration.dart';
-import 'package:celechron/design/sub_title.dart';
-import 'package:celechron/model/task.dart';
-import 'package:celechron/page/task/task_controller.dart';
-import 'package:celechron/page/task/task_edit_page.dart';
-import 'package:celechron/page/flow/flow_controller.dart';
+import 'package:celechronalpha/design/custom_decoration.dart';
+import 'package:celechronalpha/design/sub_title.dart';
+import 'package:celechronalpha/model/task.dart';
+import 'package:celechronalpha/page/task/task_controller.dart';
+import 'package:celechronalpha/page/task/task_edit_page.dart';
+import 'package:celechronalpha/page/flow/flow_controller.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:table_calendar/table_calendar.dart';
-import 'package:celechron/model/period.dart';
-import 'package:celechron/utils/utils.dart';
+import 'package:celechronalpha/model/period.dart';
+import 'package:celechronalpha/utils/utils.dart';
 
-import 'package:celechron/design/round_rectangle_card.dart';
-import 'package:celechron/design/custom_colors.dart';
-import 'package:celechron/page/scholar/course_detail/course_detail_view.dart';
-import 'package:celechron/page/calendar/schedule_view.dart';
+import 'package:celechronalpha/design/round_rectangle_card.dart';
+import 'package:celechronalpha/design/custom_colors.dart';
+import 'package:celechronalpha/page/scholar/course_detail/course_detail_view.dart';
+import 'package:celechronalpha/page/calendar/schedule_view.dart';
 import 'calendar_controller.dart';
 
 class CalendarPage extends StatelessWidget {

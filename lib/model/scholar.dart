@@ -1,16 +1,16 @@
 import 'package:get/get.dart';
 
-import 'package:celechron/page/option/option_controller.dart';
+import 'package:celechronalpha/page/option/option_controller.dart';
 
 import 'period.dart';
 import 'grade.dart';
 import 'semester.dart';
 import 'todo.dart';
-import 'package:celechron/utils/gpa_helper.dart';
-import 'package:celechron/http/spider.dart';
-import 'package:celechron/http/ugrs_spider.dart';
-import 'package:celechron/http/grs_spider.dart';
-import 'package:celechron/database/database_helper.dart';
+import 'package:celechronalpha/utils/gpa_helper.dart';
+import 'package:celechronalpha/http/spider.dart';
+import 'package:celechronalpha/http/ugrs_spider.dart';
+import 'package:celechronalpha/http/grs_spider.dart';
+import 'package:celechronalpha/database/database_helper.dart';
 
 class Scholar {
   Scholar();

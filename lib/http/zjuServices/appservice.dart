@@ -1,10 +1,10 @@
 /*import 'dart:convert';
 import 'dart:io';
-import 'package:celechron/database/database_helper.dart';
-import 'package:celechron/http/zjuServices/tuple.dart';
-import 'package:celechron/model/exams_dto.dart';
+import 'package:celechronalpha/database/database_helper.dart';
+import 'package:celechronalpha/http/zjuServices/tuple.dart';
+import 'package:celechronalpha/model/exams_dto.dart';
 
-import 'package:celechron/model/session.dart';
+import 'package:celechronalpha/model/session.dart';
 import 'exceptions.dart';
 
 class AppService {
